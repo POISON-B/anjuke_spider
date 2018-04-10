@@ -1,0 +1,3 @@
+环境python3.6.5 scarpy pymongo
+
+使用了scrapy框架的crawlspider爬取安居客整站所有城市新开楼盘信息,存入mongodb中
